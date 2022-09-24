@@ -1,7 +1,7 @@
 # Simple Rock Paper Scissors Game
 ### Task 4 in Software Development Mastermind
 
-#### You can test it [RPS game](https://elijahcw-git.github.io/Rock-Paper-Scissors/)
+#### You can test it [here](https://elijahcw-git.github.io/Rock-Paper-Scissors/)
 
 ![RPS Image](/icons/rps.png)
 
