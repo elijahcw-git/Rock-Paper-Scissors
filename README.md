@@ -1,7 +1,7 @@
 # Simple Rock Paper Scissors Game
 ### Task 4 in Software Development Mastermind
 
-![RPS Image](rpsTN.png)
+![RPS Image](/icons/rps.png)
 
 ### Summary
 
