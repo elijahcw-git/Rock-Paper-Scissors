@@ -1,4 +1,23 @@
 html {
+    align-items: center;
     text-align: center;
     justify-content: center;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(132,149,158,1) 0%, rgba(0,212,255,1) 100%); 
+}
+
+.game-container {
+    width: 100%;
+}
+
+.choices-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+    padding: 0px 5px 0px 5px;
 }
